@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Luca Carvalho",
+    "description": "",
+    "home_page_url": "https://lucacarvalho.github.io",
+    "feed_url": "https://lucacarvalho.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Luca Carvalho"
+    },
+    "items": [
+        {
+            "id": "https://lucacarvalho.github.io/hello.html",
+            "url": "https://lucacarvalho.github.io/hello.html",
+            "title": "Hello",
+            "author": {
+                "name": "Luca Carvalho"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-17T16:03:38-03:00",
+            "date_modified": "2020-06-17T16:03:38-03:00"
+        }
+    ]
+}

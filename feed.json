@@ -12,14 +12,16 @@
         {
             "id": "https://lucacarvalho.github.io/hello.html",
             "url": "https://lucacarvalho.github.io/hello.html",
-            "title": "Hello",
+            "title": "Hello, world!",
+            "summary": "This is my first post. I'm not entirely sure what to talk about, so I'll make it the most useless post of this blog. Yaay!",
+            "content_html": "<p>This is my first post. I'm not entirely sure what to talk about, so I'll make it the most useless post of this blog. Yaay!</p>",
             "author": {
                 "name": "Luca Carvalho"
             },
             "tags": [
             ],
             "date_published": "2020-06-17T16:03:38-03:00",
-            "date_modified": "2020-06-17T16:03:38-03:00"
+            "date_modified": "2020-06-17T16:41:32-03:00"
         }
     ]
 }

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Luca Carvalho</title>
-    <link href="https://lucacarvalho.github.io/lucacarvalho.github.io/feed.xml" rel="self" />
-    <link href="https://lucacarvalho.github.io/lucacarvalho.github.io" />
+    <link href="https://lucacarvalho.github.io/feed.xml" rel="self" />
+    <link href="https://lucacarvalho.github.io" />
     <updated>2020-11-15T02:02:25-03:00</updated>
     <author>
         <name>Luca Carvalho</name>
     </author>
-    <id>https://lucacarvalho.github.io/lucacarvalho.github.io</id>
+    <id>https://lucacarvalho.github.io</id>
 
     <entry>
         <title>8-puzzle</title>
         <author>
             <name>Luca Carvalho</name>
         </author>
-        <link href="https://lucacarvalho.github.io/lucacarvalho.github.io/8-puzzle.html"/>
-        <id>https://lucacarvalho.github.io/lucacarvalho.github.io/8-puzzle.html</id>
+        <link href="https://lucacarvalho.github.io/8-puzzle.html"/>
+        <id>https://lucacarvalho.github.io/8-puzzle.html</id>
 
         <updated>2020-11-15T02:02:25-03:00</updated>
             <summary>
@@ -41,8 +41,8 @@
         <author>
             <name>Luca Carvalho</name>
         </author>
-        <link href="https://lucacarvalho.github.io/lucacarvalho.github.io/hello-world.html"/>
-        <id>https://lucacarvalho.github.io/lucacarvalho.github.io/hello-world.html</id>
+        <link href="https://lucacarvalho.github.io/hello-world.html"/>
+        <id>https://lucacarvalho.github.io/hello-world.html</id>
 
         <updated>2020-11-15T01:07:21-03:00</updated>
             <summary>

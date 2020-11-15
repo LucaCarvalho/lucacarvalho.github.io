@@ -1,23 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Luca Carvalho</title>
-    <link href="https://lucacarvalho.github.io/feed.xml" rel="self" />
-    <link href="https://lucacarvalho.github.io" />
-    <updated>2020-06-17T16:48:44-03:00</updated>
+    <link href="https://lucacarvalho.github.io/lucacarvalho.github.io/feed.xml" rel="self" />
+    <link href="https://lucacarvalho.github.io/lucacarvalho.github.io" />
+    <updated>2020-11-15T02:02:25-03:00</updated>
     <author>
         <name>Luca Carvalho</name>
     </author>
-    <id>https://lucacarvalho.github.io</id>
+    <id>https://lucacarvalho.github.io/lucacarvalho.github.io</id>
 
+    <entry>
+        <title>8-puzzle</title>
+        <author>
+            <name>Luca Carvalho</name>
+        </author>
+        <link href="https://lucacarvalho.github.io/lucacarvalho.github.io/8-puzzle.html"/>
+        <id>https://lucacarvalho.github.io/lucacarvalho.github.io/8-puzzle.html</id>
+
+        <updated>2020-11-15T02:02:25-03:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Back in 2018, my Introduction to Programming professor assigned me (and my class) an interesting project: implementing an 8-puzzle game in C. Following his recommendation, I used SDL2 to implement graphics and input handling.</p>
+<p>Turns out, it was quite fun to code it! I had never worked with SDL (or anything similar) before, so I had to learn the basics from the ground up. It took me a couple of weeks, but I managed to write something reasonably elegant that worked pretty well.</p>
+<p>You can check it out <em><strong><a href="https://github.com/LucaCarvalho/8-puzzle" target="_blank" rel="noopener noreferrer">here</a></strong></em>.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Back in 2018, my Introduction to Programming professor assigned me (and my class) an interesting project: implementing an 8-puzzle game in C. Following his recommendation, I used SDL2 to implement graphics and input handling.</p>
+<p>Turns out, it was quite fun to code it! I had never worked with SDL (or anything similar) before, so I had to learn the basics from the ground up. It took me a couple of weeks, but I managed to write something reasonably elegant that worked pretty well.</p>
+<p>You can check it out <em><strong><a href="https://github.com/LucaCarvalho/8-puzzle" target="_blank" rel="noopener noreferrer">here</a></strong></em>.</p>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hello, world!</title>
         <author>
             <name>Luca Carvalho</name>
         </author>
-        <link href="https://lucacarvalho.github.io/hello.html"/>
-        <id>https://lucacarvalho.github.io/hello.html</id>
+        <link href="https://lucacarvalho.github.io/lucacarvalho.github.io/hello-world.html"/>
+        <id>https://lucacarvalho.github.io/lucacarvalho.github.io/hello-world.html</id>
 
-        <updated>2020-06-17T16:41:32-03:00</updated>
+        <updated>2020-11-15T01:07:21-03:00</updated>
             <summary>
                 <![CDATA[
                     This is my first post. I'm not entirely sure what to talk about, so I'll make it the most useless post of this blog. Yaay!

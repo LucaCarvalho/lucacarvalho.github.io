@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://lucacarvalho.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://lucacarvalho.github.io/lucacarvalho.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://lucacarvalho.github.io/</loc>
+<loc>https://lucacarvalho.github.io/lucacarvalho.github.io/</loc>
 </url>
 <url>
-<loc>https://lucacarvalho.github.io/hello.html</loc>
-<lastmod>2020-06-17T16:41:32-03:00</lastmod>
+<loc>https://lucacarvalho.github.io/lucacarvalho.github.io/8-puzzle.html</loc>
+<lastmod>2020-11-15T02:02:25-03:00</lastmod>
+</url>
+<url>
+<loc>https://lucacarvalho.github.io/lucacarvalho.github.io/hello-world.html</loc>
+<lastmod>2020-11-15T01:07:21-03:00</lastmod>
 </url>
 </urlset>
